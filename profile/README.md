@@ -32,12 +32,3 @@ its own rules, and one proof of work counts toward all of them.
 | [Tally](https://github.com/0xLattice/Tally) | Peer evidence and admission control |
 | [VolumeBroker](https://github.com/0xLattice/VolumeBroker) | Atomic, Volume-granular content storage |
 | [lattice-formal](https://github.com/0xLattice/lattice-formal) | Formal models of the protocol (TLA+, Lean) |
-
-### Apps on Lattice
-
-[moniker](https://github.com/0xLattice/moniker) names you own ·
-[follows](https://github.com/0xLattice/follows) one shared follow graph ·
-[stoa](https://github.com/0xLattice/stoa) forums no one can censor ·
-[rave](https://github.com/0xLattice/rave) reviews no company owns ·
-[fanfare](https://github.com/0xLattice/fanfare) artist coins ·
-[wheatpaste](https://github.com/0xLattice/wheatpaste) one shared billboard
