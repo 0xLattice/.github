@@ -20,7 +20,6 @@ its own rules, and one proof of work counts toward all of them.
 |---|---|
 | [lattice-sdk](https://github.com/0xLattice/lattice-sdk) | TypeScript SDK for the Lattice network |
 | [lattice-skills](https://github.com/0xLattice/lattice-skills) | Agent skills for running and building on a node |
-| [moniker-sdk](https://github.com/0xLattice/moniker-sdk) | Read and write Moniker names from any app |
 
 ### Protocol
 
